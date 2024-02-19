@@ -1,0 +1,15 @@
+.golden_ticket{
+    float: left;
+    opacity:0;
+    margin-left:50%;
+    margin-top: -110px;
+    width: 75px;
+    height: 75px;
+    /* border: 1px solid; */
+}
+.golden_ticket_page{
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+}
